@@ -2,11 +2,11 @@ import React from 'react';
 import Reservas from '../Reservas/Reservas';
 
 
-function Contendor() {
+function Contenedor() {
 
     return (
 
-        <>  </>
+        <Reservas/>
 
     );
 
