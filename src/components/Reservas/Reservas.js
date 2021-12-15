@@ -8,9 +8,9 @@ function Reservas() {
         <div className="contenedor">
             <div>
                 <select className="form-select shadow-none" aria-label="Default select example">
-                    <option slected value="1">Afeitado</option>
-                    <option value="2">Barba</option>
-                    <option value="3">Corte</option>
+                    <option slected value="Afeitado">Afeitado</option>
+                    <option value="Barba">Barba</option>
+                    <option value="Corte">Corte</option>
                 </select>
             </div>
             <div className="d-flex justify-content-between">
